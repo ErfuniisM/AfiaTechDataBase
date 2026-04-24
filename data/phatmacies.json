@@ -1,0 +1,212 @@
+[
+  {
+    "pharmacyName": "Al-Noor Pharmacy",
+    "phone": "+966 50 111 2233",
+    "branch": "Riyadh",
+    "wh": "24/7",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Safa Pharmacy",
+    "phone": "+966 55 444 5566",
+    "branch": "Jeddah",
+    "wh": "8 AM - 11 PM",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Al-Shifa Pharmacy",
+    "phone": "+966 50 777 8899",
+    "branch": "Mecca",
+    "wh": "24/7",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Rayan Pharmacy",
+    "phone": "+966 54 123 4567",
+    "branch": "Medina",
+    "wh": "9 AM - 10 PM",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Dawaa Pharmacy",
+    "phone": "+966 56 789 0123",
+    "branch": "Dammam",
+    "wh": "24/7",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Al-Hayat Pharmacy",
+    "phone": "+966 50 234 5678",
+    "branch": "Khobar",
+    "wh": "8 AM - 12 AM",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Care Pharmacy",
+    "phone": "+966 55 987 6543",
+    "branch": "Riyadh",
+    "wh": "24/7",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Boots Pharmacy",
+    "phone": "+966 53 456 7890",
+    "branch": "Jeddah",
+    "wh": "7 AM - 11 PM",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Al-Rawdah Pharmacy",
+    "phone": "+966 50 345 6789",
+    "branch": "Mecca",
+    "wh": "24/7",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Nahdi Pharmacy",
+    "phone": "+966 54 987 6543",
+    "branch": "Medina",
+    "wh": "8 AM - 10 PM",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Al-Dawaa Pharmacy",
+    "phone": "+966 56 123 7890",
+    "branch": "Dammam",
+    "wh": "24/7",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Sama Pharmacy",
+    "phone": "+966 50 456 7891",
+    "branch": "Riyadh",
+    "wh": "9 AM - 9 PM",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Wellcare Pharmacy",
+    "phone": "+966 55 222 3344",
+    "branch": "Jeddah",
+    "wh": "24/7",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Al-Falah Pharmacy",
+    "phone": "+966 53 888 7766",
+    "branch": "Mecca",
+    "wh": "8 AM - 11 PM",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Green Pharmacy",
+    "phone": "+966 50 567 8902",
+    "branch": "Medina",
+    "wh": "24/7",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Modern Pharmacy",
+    "phone": "+966 54 333 4455",
+    "branch": "Khobar",
+    "wh": "7 AM - 10 PM",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Al-Salam Pharmacy",
+    "phone": "+966 56 444 5566",
+    "branch": "Dammam",
+    "wh": "24/7",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Trust Pharmacy",
+    "phone": "+966 50 678 9013",
+    "branch": "Riyadh",
+    "wh": "8 AM - 12 AM",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Family Pharmacy",
+    "phone": "+966 55 555 6677",
+    "branch": "Jeddah",
+    "wh": "24/7",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Al-Madina Pharmacy",
+    "phone": "+966 53 222 3344",
+    "branch": "Medina",
+    "wh": "9 AM - 11 PM",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Najm Pharmacy",
+    "phone": "+966 50 789 0124",
+    "branch": "Mecca",
+    "wh": "24/7",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Oasis Pharmacy",
+    "phone": "+966 54 777 8899",
+    "branch": "Riyadh",
+    "wh": "8 AM - 9 PM",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Red Sea Pharmacy",
+    "phone": "+966 56 666 7788",
+    "branch": "Jeddah",
+    "wh": "24/7",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Tayeb Pharmacy",
+    "phone": "+966 50 890 1235",
+    "branch": "Dammam",
+    "wh": "7 AM - 11 PM",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Al-Riyadh Pharmacy",
+    "phone": "+966 55 444 8899",
+    "branch": "Riyadh",
+    "wh": "24/7",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Pearl Pharmacy",
+    "phone": "+966 53 999 0011",
+    "branch": "Khobar",
+    "wh": "8 AM - 10 PM",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Sunrise Pharmacy",
+    "phone": "+966 50 901 2346",
+    "branch": "Mecca",
+    "wh": "24/7",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Al-Waha Pharmacy",
+    "phone": "+966 54 111 2233",
+    "branch": "Medina",
+    "wh": "9 AM - 9 PM",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Sky Pharmacy",
+    "phone": "+966 56 777 8899",
+    "branch": "Jeddah",
+    "wh": "24/7",
+    "action": "Remove"
+  },
+  {
+    "pharmacyName": "Zahra Pharmacy",
+    "phone": "+966 50 012 3457",
+    "branch": "Riyadh",
+    "wh": "8 AM - 12 AM",
+    "action": "Remove"
+  }
+]
